@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.NHibernateConventions", "DevelopmentWithADot.NHibernateConventions\DevelopmentWithADot.NHibernateConventions.csproj", "{130E720E-00C3-498B-A1F6-09A5714F3A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.NHibernateConventions.Tests", "DevelopmentWithADot.NHibernateConventions.Tests\DevelopmentWithADot.NHibernateConventions.Tests.csproj", "{499862FC-3AF6-43E7-9706-519C13827AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130E720E-00C3-498B-A1F6-09A5714F3A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130E720E-00C3-498B-A1F6-09A5714F3A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130E720E-00C3-498B-A1F6-09A5714F3A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130E720E-00C3-498B-A1F6-09A5714F3A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499862FC-3AF6-43E7-9706-519C13827AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499862FC-3AF6-43E7-9706-519C13827AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499862FC-3AF6-43E7-9706-519C13827AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499862FC-3AF6-43E7-9706-519C13827AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
